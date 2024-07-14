@@ -1,0 +1,40 @@
+2024-07-14 13:44:46.332 +05:30 [INF] Now listening on: https://localhost:7178
+2024-07-14 13:44:46.385 +05:30 [INF] Now listening on: http://localhost:5241
+2024-07-14 13:44:46.393 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-14 13:44:46.394 +05:30 [INF] Hosting environment: Development
+2024-07-14 13:44:46.394 +05:30 [INF] Content root path: C:\Users\javed\source\repos\Git\Punch8\Punchh8.Api\Punch8.API\
+2024-07-14 13:49:43.131 +05:30 [INF] Application is shutting down...
+2024-07-14 13:50:07.172 +05:30 [INF] Now listening on: https://localhost:7178
+2024-07-14 13:50:07.251 +05:30 [INF] Now listening on: http://localhost:5241
+2024-07-14 13:50:07.261 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-14 13:50:07.262 +05:30 [INF] Hosting environment: Development
+2024-07-14 13:50:07.262 +05:30 [INF] Content root path: C:\Users\javed\source\repos\Git\Punch8\Punchh8.Api\Punch8.API\
+2024-07-14 13:50:52.101 +05:30 [INF] Application is shutting down...
+2024-07-14 13:50:57.989 +05:30 [INF] Now listening on: https://localhost:7178
+2024-07-14 13:50:58.052 +05:30 [INF] Now listening on: http://localhost:5241
+2024-07-14 13:50:58.060 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-14 13:50:58.060 +05:30 [INF] Hosting environment: Development
+2024-07-14 13:50:58.060 +05:30 [INF] Content root path: C:\Users\javed\source\repos\Git\Punch8\Punchh8.Api\Punch8.API\
+2024-07-14 13:56:29.661 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/index.html - -
+2024-07-14 13:56:29.863 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/index.html - - - 200 - text/html;charset=utf-8 208.9047ms
+2024-07-14 13:56:30.283 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/v1/swagger.json - -
+2024-07-14 13:56:30.438 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 154.9138ms
+2024-07-14 13:56:43.598 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7178/api/Login/Hi?Name=mit - -
+2024-07-14 13:56:43.611 +05:30 [INF] Executing endpoint 'Punch8.API.Controllers.LoginController.Hi (Punch8.API)'
+2024-07-14 13:56:43.659 +05:30 [INF] Route matched with {action = "Hi", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Hi(System.String) on controller Punch8.API.Controllers.LoginController (Punch8.API).
+2024-07-14 13:56:43.690 +05:30 [INF] hi Method Invoked
+2024-07-14 13:56:43.690 +05:30 [INF] Hi Method Ended
+2024-07-14 13:56:43.699 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-07-14 13:56:43.710 +05:30 [INF] Executed action Punch8.API.Controllers.LoginController.Hi (Punch8.API) in 41.7272ms
+2024-07-14 13:56:43.711 +05:30 [INF] Executed endpoint 'Punch8.API.Controllers.LoginController.Hi (Punch8.API)'
+2024-07-14 13:56:43.711 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7178/api/Login/Hi?Name=mit - - - 200 - text/plain;+charset=utf-8 113.5356ms
+2024-07-14 13:56:50.083 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7178/api/Login/Hi?Name=Amit - -
+2024-07-14 13:56:50.083 +05:30 [INF] Executing endpoint 'Punch8.API.Controllers.LoginController.Hi (Punch8.API)'
+2024-07-14 13:56:50.084 +05:30 [INF] Route matched with {action = "Hi", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Hi(System.String) on controller Punch8.API.Controllers.LoginController (Punch8.API).
+2024-07-14 13:56:50.085 +05:30 [INF] hi Method Invoked
+2024-07-14 13:56:50.085 +05:30 [INF] Hi Method Ended
+2024-07-14 13:56:50.085 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-07-14 13:56:50.086 +05:30 [INF] Executed action Punch8.API.Controllers.LoginController.Hi (Punch8.API) in 2.0372ms
+2024-07-14 13:56:50.086 +05:30 [INF] Executed endpoint 'Punch8.API.Controllers.LoginController.Hi (Punch8.API)'
+2024-07-14 13:56:50.088 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7178/api/Login/Hi?Name=Amit - - - 200 - text/plain;+charset=utf-8 4.7265ms
+2024-07-14 13:56:56.100 +05:30 [INF] Application is shutting down...
